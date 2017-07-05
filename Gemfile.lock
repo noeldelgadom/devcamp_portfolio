@@ -1,4 +1,10 @@
 GIT
+  remote: https://github.com/noeldelgadom/devcamp_view_tool
+  revision: 0e672cb8194aa4f770cb70500410a7abbaac7b73
+  specs:
+    devcamp_view_tool (0.1.0)
+
+GIT
   remote: https://github.com/twbs/bootstrap-rubygem
   revision: 7cdeca9a0e8db3bb7548d9fa5bdaad9b644fca32
   specs:
@@ -186,6 +192,7 @@ DEPENDENCIES
   bootstrap!
   byebug
   coffee-rails (~> 4.2)
+  devcamp_view_tool!
   devise
   friendly_id (~> 5.1.0)
   jbuilder (~> 2.5)
