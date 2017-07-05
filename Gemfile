@@ -30,6 +30,7 @@ gem 'friendly_id', '~> 5.1.0'
 gem 'devise'
 gem 'bootstrap', git: 'https://github.com/twbs/bootstrap-rubygem'
 gem 'jquery-rails'
+gem 'petergate', '~> 1.6'
 
 # Custom made gem
 gem 'devcamp_view_tool', git: 'https://github.com/noeldelgadom/devcamp_view_tool'
