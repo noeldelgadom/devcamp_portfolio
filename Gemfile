@@ -31,6 +31,8 @@ gem 'devise'
 gem 'bootstrap', git: 'https://github.com/twbs/bootstrap-rubygem'
 gem 'jquery-rails'
 gem 'petergate', '~> 1.6'
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.1'
+gem 'kaminari', '~> 1.0', '>= 1.0.1'
 
 # Custom made gem
 gem 'devcamp_view_tool', git: 'https://github.com/noeldelgadom/devcamp_view_tool'
