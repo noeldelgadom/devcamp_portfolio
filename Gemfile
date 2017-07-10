@@ -34,6 +34,10 @@ gem 'petergate', '~> 1.6'
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.1'
 gem 'kaminari', '~> 1.0', '>= 1.0.1'
 gem 'jquery-ui-rails', '~> 5.0', '>= 5.0.5'
+gem 'carrierwave', '~> 0.11.2'
+gem 'mini_magick', '~> 4.5', '>= 4.5.1'
+gem 'carrierwave-aws', '~> 1.1'
+gem 'dotenv-rails', '~> 2.2', '>= 2.2.1'
 
 # Custom made gem
 gem 'devcamp_view_tool', git: 'https://github.com/noeldelgadom/devcamp_view_tool'
