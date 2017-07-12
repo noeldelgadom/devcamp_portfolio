@@ -30,6 +30,7 @@ gem 'dotenv-rails', '~> 2.2', '>= 2.2.1'
 gem 'cocoon', '~> 1.2', '>= 1.2.9'
 gem 'gritter', '~> 1.2'
 gem 'twitter', '~> 6.1'
+gem 'redis', '~> 3.3', '>= 3.3.1'
 
 # Custom made gem
 gem 'devcamp_view_tool', git: 'https://github.com/noeldelgadom/devcamp_view_tool'
