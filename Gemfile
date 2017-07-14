@@ -34,6 +34,8 @@ gem 'redis', '~> 3.3', '>= 3.3.1'
 gem 'redcarpet', '~> 3.3', '>= 3.3.4'
 gem 'coderay', '~> 1.1', '>= 1.1.1'
 
+ruby "2.4.0"
+
 # Custom made gem
 gem 'devcamp_view_tool', git: 'https://github.com/noeldelgadom/devcamp_view_tool'
 
