@@ -1,5 +1,14 @@
 @import "bootstrap";
 @import "gritter";
+
+@font-face {
+  font-family: 'Roboto Slab', serif;
+  src:font-url('RobotoSlab-Regular.ttf');
+}
+@font-face {
+  font-family: 'Lato', sans-serif;
+  src:font-url('Lato-Regular.ttf');
+}
 /*
  * Globals
  */
@@ -32,8 +41,18 @@ body {
 }
 body {
   color: #fff;
+  font-family: 'Lato', sans-serif;
   text-align: center;
   text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  font-family: 'Roboto Slab', serif;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
